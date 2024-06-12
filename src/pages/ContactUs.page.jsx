@@ -3,9 +3,9 @@ import React from 'react'
 const ContactUsPage = () => {
   return (
     <div>
-      <h1>ContactUsPage</h1>
-      <h1>ContactUsPage</h1>
-      <h1>ContactUsPage</h1>
+      <h5>ContactUsPage</h5>
+      <h5>ContactUsPage</h5>
+      <h5>ContactUsPage</h5>
     </div>
   )
 }

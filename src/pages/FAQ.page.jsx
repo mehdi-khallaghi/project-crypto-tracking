@@ -3,9 +3,9 @@ import React from 'react'
 const FAQPage = () => {
   return (
     <div>
-      <h1>FAQPage</h1>
-      <h1>FAQPage</h1>
-      <h1>FAQPage</h1>
+      <h5>FAQPage</h5>
+      <h5>FAQPage</h5>
+      <h5>FAQPage</h5>
     </div>
   );
 }
