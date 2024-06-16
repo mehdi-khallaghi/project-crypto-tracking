@@ -6,12 +6,12 @@ import FAQPage from "./pages/FAQ.page";
 import AboutUsPage from "./pages/AboutUs.page";
 import ContactUsPage from "./pages/ContactUs.page";
 
-function App() {
+function App() { 
   return (
     <div>
       {/* navbar */}
         <NavbarComponent/>
-        
+
       {/* wrapper */}
         <div className="wrapper">
           <Routes>
