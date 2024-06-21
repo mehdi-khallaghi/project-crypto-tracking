@@ -22,7 +22,7 @@ const HomePage = () => {
       .catch(error => {
         setError("An error occured !") 
       })
-  }, [])
+  } , [])
   return (
     <div className='container mt-3'>
       <div className="row">
