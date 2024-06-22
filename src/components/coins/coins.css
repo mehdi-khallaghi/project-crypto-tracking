@@ -2,3 +2,30 @@
     width: 40px;
     height:auto;
 }
+.coin-detalis-row {
+    background-color: rgba(250, 237, 222, 0.658);
+    padding: 0.5rem;
+    border-radius: 12px;
+    font-size: 17px;
+    font-weight: 400;
+    margin:20px 0 ;
+}
+.coin-detalis-row2 {
+    background-color: rgba(231, 235, 238, 0.658);
+    padding: 0.5rem;
+    border-radius: 12px;
+    font-size: 17px;
+    font-weight: 400;
+    margin:20px 0 ;
+}
+.coin-detalis-row3 {
+    background-color: rgba(172, 215, 248, 0.658);
+    padding: 0.5rem;
+    border-radius: 12px;
+    font-size: 17px;
+    font-weight: 400;
+    margin:20px 0 ;
+}
+.table-coin {
+    text-align: center;
+}
